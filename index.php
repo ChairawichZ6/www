@@ -8,7 +8,8 @@
     echo "<img src=\"cat.jpg\">";
     echo '<img src="cat1.jpg">';
   ?>
-  <a href="http://www.it.kmitl.ac.th">This is a link</a>
+  <br><a href="http://www.it.kmitl.ac.th">This is My favorite Link</a>
+  
   
 </body>
 </html>
