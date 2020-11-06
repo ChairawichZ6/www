@@ -14,16 +14,16 @@ nonymous">
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
-                <img src="img/cat.jpg" alt ="" width="500" height="580">
+                <img src="cat.jpg" alt ="" width="500" height="580">
             </div>
             <div class="col-sm-3">
-                <img src="img/cat2.jpg" alt="" class="img-fluid">
-                <img src="img/cat3.jpg" alt="" class="img-fluid">
-                <img src="img/cat4.jpg" alt="" class="img-fluid">
+                <img src="cat2.jpg" alt="" class="img-fluid">
+                <img src="cat3.jpg" alt="" class="img-fluid">
+                <img src="cat4.jpg" alt="" class="img-fluid">
             </div>
             <div class="col-sm-4">
-                <img src="img/life/life.jpg" alt="" width="500" height="400"><br>
-                <img src="img/life/life2.jpg" alt="" width="500" height="200">
+                <img src="life.jpg" alt="" width="500" height="400"><br>
+                <img src="life2.jpg" alt="" width="500" height="200">
             </div>
         </div>
     </div>
