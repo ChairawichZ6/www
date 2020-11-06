@@ -15,7 +15,7 @@ nonymous">
     <div class="row">
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/creative/creative.jpg" >
+                <img class="card-img-top" src="creative.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Smoke City</h4>
                     <p class="card-text">CHILL FINE EVERY DAY !<p>
@@ -25,7 +25,7 @@ nonymous">
         </div>
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/creative/creative2.jpg" >
+                <img class="card-img-top" src="creative2.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Coffee Time</h4>
                     <p class="card-text">CHILL FINE EVERY WEEK !<p>
@@ -35,7 +35,7 @@ nonymous">
         </div>
         <div class="col-sm-4">
         <div class="card">
-            <img class="card-img-top" src="img/creative/creative3.jpg" >
+            <img class="card-img-top" src="creative3.jpg" >
             <div class="card-body">
                 <h4 class="card-title">Lighting in midnight</h4>
                 <p class="card-text">CHILL FINE EVERY MONTH !<p>
