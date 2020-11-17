@@ -34,5 +34,6 @@ while($Result = mysqli_fetch_array($res))
 <?php
 mysqli_close($conn);
 ?>
+    <a href="https://webfook.azurewebsites.net/Form.html">แก้ไข</a>
 </body>
 </html>
