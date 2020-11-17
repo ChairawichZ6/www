@@ -34,6 +34,6 @@ while($Result = mysqli_fetch_array($res))
 <?php
 mysqli_close($conn);
 ?>
-            <button type="button"<a href="https://webfook.azurewebsites.net/Form.html"</a>เพิ่ม</button>
+            <a href="https://webfook.azurewebsites.net/Form.html"><button type="button">เพิ่ม</button></a>
 </body>
 </html>
