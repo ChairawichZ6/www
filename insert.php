@@ -35,7 +35,9 @@ if (mysqli_query($conn, $sql)) {
   
 mysqli_close($conn);
 ?>
+<div class="my-5">
 <input class="btn btn-success" type="button" value="กลับหน้าหลัก" onclick="https://webfook.azurewebsites.net/show.php" />
+</div>
 </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
