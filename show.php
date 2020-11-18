@@ -42,7 +42,6 @@ while($Result = mysqli_fetch_array($res))
 <?php
 mysqli_close($conn);
 ?>
-</body>
 <form>
     <input class="btn btn-success" type="button" value="เพิ่ม" onclick="window.location.href=https://webfook.azurewebsites.net/Form.html'" />
 </form>
@@ -57,4 +56,5 @@ body {
   background-position: center;
   background-color: hsla(89, 43%, 51%, 0.3);
 }
+</body>
 </html>
