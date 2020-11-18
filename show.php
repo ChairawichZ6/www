@@ -3,6 +3,9 @@
 <title>ITF Lab</title>
 </head>
 <body>
+body {
+  background-color: #80ced6;
+}
 <?php
 $conn = mysqli_init();
 mysqli_real_connect($conn, 'chaicom.mysql.database.azure.com', 'chairawich@chaicom', 'Kunchai12', 'itflab', 3306);
