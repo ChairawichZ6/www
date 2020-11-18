@@ -37,12 +37,12 @@ while($Result = mysqli_fetch_array($res))
 <?php
 mysqli_close($conn);
 ?>
-<style>
-body {
-  background-color: #d5f4e6;
-}
 </body>
 <form>
             <a href="https://webfook.azurewebsites.net/Form.html"><button type="button">เพิ่ม</button></a>
 </form>
+<style>
+body {
+  background-color: #d5f4e6;
+}
 </html>
