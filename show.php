@@ -50,7 +50,6 @@ body {
   border: 2px solid black;
   padding: 25px;
   background: url(mountain.jpg);
-  background-repeat: no-repeat;
   background-size: auto;
 }
 </html>
