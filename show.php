@@ -43,10 +43,10 @@ mysqli_close($conn);
 </form>
 <style>
 body {
-  background-color: #d5f4e6;
   background-image: it kmitl.jpg;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
+  background-color: #d5f4e6;
 }
 </html>
