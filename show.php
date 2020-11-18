@@ -3,9 +3,6 @@
 <title>ITF Lab</title>
 </head>
 <body>
-body {
-  background-color: #80ced6;
-}
 <?php
 $conn = mysqli_init();
 mysqli_real_connect($conn, 'chaicom.mysql.database.azure.com', 'chairawich@chaicom', 'Kunchai12', 'itflab', 3306);
@@ -33,14 +30,11 @@ while($Result = mysqli_fetch_array($res))
         <input type="button" value="ลบ" onclick="window.location.href='https://webfook.azurewebsites.net/delete.php?rn=<?php echo $Result['Name'];?>'" />
     </td>
    </tr>
-?>
 <?php
 }
-?>
 </table>
 <?php
 mysqli_close($conn);
-?>
 </body>
 <form>
             <a href="https://webfook.azurewebsites.net/Form.html"><button type="button">เพิ่ม</button></a>
