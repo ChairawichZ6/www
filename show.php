@@ -14,9 +14,6 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
 ?>
 <table width="600" border="1">
   <tr>
-  <style>
-tr {
-  border: 5px solid red;
     <th width="100"> <div align="center">Name</div></th>
     <th width="350"> <div align="center">Comment </div></th>
     <th width="150"> <div align="center">Action </div></th>
@@ -44,6 +41,7 @@ mysqli_close($conn);
 <form>
             <a href="https://webfook.azurewebsites.net/Form.html"><button type="button">เพิ่ม</button></a>
 </form>
+<style>
 body {
   background-image: url('it kmitl.jpg');
   background-repeat: no-repeat;
