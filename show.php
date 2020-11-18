@@ -1,5 +1,10 @@
 <html>
 <head>
+<style>
+body {
+  background-color: #d5f4e6;
+}
+
 <title>ITF Lab</title>
 </head>
 <body>
