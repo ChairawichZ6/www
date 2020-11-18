@@ -39,6 +39,7 @@ while($Result = mysqli_fetch_array($res))
 <?php
 }
 ?>
+</tbody>
 </table>
 <?php
 mysqli_close($conn);
