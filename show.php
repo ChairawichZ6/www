@@ -47,9 +47,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
-  border: 2px solid black;
-  padding: 25px;
   background: url(mountain.jpg);
-  background-size: auto;
 }
 </html>
