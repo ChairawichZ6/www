@@ -43,7 +43,7 @@ mysqli_close($conn);
 </form>
 <style>
 body {
-  background-image: it kmitl.jpg;
+  background-image: url('it kmitl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
