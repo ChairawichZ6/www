@@ -44,5 +44,9 @@ mysqli_close($conn);
 <style>
 body {
   background-color: #d5f4e6;
+  background-image: it kmitl.jpg;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
 }
 </html>
