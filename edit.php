@@ -9,6 +9,7 @@
     $Name=$_GET['name'];
     $Comment=$_GET['comment'];
     $Link=$_GET['link'];
+    $ID = $_GET['id'];
 ?>
 <div class="h-100" style="display:grid; align-items: center;">
     <div class="roundred p-3 shadow">
