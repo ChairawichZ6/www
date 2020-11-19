@@ -33,7 +33,7 @@ while($Result = mysqli_fetch_array($res))
     <td><?php echo $Result['Comment'];?></td>
     <td><?php echo $Result['Link'];?></td>
     <td>
-        <input class="btn btn-warning" type="button" value="แก้ไข" onclick="window.location.href='https://webfook.azurewebsites.net/edit.php?name=<?php name=<?php echo $Result['Name'];?>&comment=<?php echo $Result['Comment'];?>&link=<?php echo $Result['Link'];?>&id=<?php echo $Result['ID'];?>'" />
+        <input class="btn btn-warning" type="button" value="แก้ไข" onclick="window.location.href='https://webfook.azurewebsites.net/edit.php?name=<?php echo $Result['Name'];?>&comment=<?php echo $Result['Comment'];?>&link=<?php echo $Result['Link'];?>&id=<?php echo $Result['ID'];?>'" /> 
         <input class="btn btn-danger" type="button" value="ลบ" onclick="window.location.href='https://webfook.azurewebsites.net/delete.php?rn=<?php echo $Result['ID'];?>'" />
     </td>
    </tr>
