@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<title>Comment Form</title>
 </head>
-<body class="container text-center" style="height: 100vh; background: url(https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80);background-repeat: no-repeat;background-size: cover;">>
+<body class="container text-center" style="height: 100vh; background:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80);background-repeat: no-repeat;background-size: cover;">>
 <?php
     $Name=$_GET['name'];
     $Comment=$_GET['comment'];
