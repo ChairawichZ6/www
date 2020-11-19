@@ -56,7 +56,7 @@ body {
   background-image: url('it kmitl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: bottom;
   background-color: hsla(89, 43%, 51%, 0.3);
 }
 </body>
